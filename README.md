@@ -25,7 +25,7 @@ filter {
 
 output {
   elasticsearch { 
-    hosts => ["192.168.1.19:9200"] 
+    hosts => ["localhost:9200"] 
     index => "cities"
   }
 }
