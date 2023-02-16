@@ -60,7 +60,7 @@ See in kibana your data after import:
 # Enjoy the ELK stack !
 
 ## Credits
-Me [@mathzdev](https://github.com/mathzdev) [Matheus's Linkedin](https://www.linkedin.com/in/matheuslucio/) to create this simple tuto, and [@WilsonLucas](https://github.com/WilsonLucas) [Wilson's Linkedin](https://www.linkedin.com/in/wilson-lucas-719963b4/) for teach me about logstash.
+Me [@mathzdev](https://github.com/mathzdev) to create this simple tuto, and [@WilsonLucas](https://github.com/WilsonLucas) [Wilson's Linkedin](https://www.linkedin.com/in/wilson-lucas-719963b4/) for teach me about logstash.
 
 ![Elk Stack](https://raw.githubusercontent.com/mathzdev/elastic-logstash-csv-importer-sample-elk/main/elk-stack-logo.png)
 
